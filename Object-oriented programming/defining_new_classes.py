@@ -5,19 +5,19 @@ class Apple:
     color = "" # can make it empty ""
     flavor = ""
 
-jonoagold = Apple()
-jonoagold.color = "red" # assigning value under color
-jonoagold.flavor = "sweet"
-print(jonoagold.color)
+jonagold = Apple()
+jonagold.color = "red" # assigning value under color
+jonagold.flavor = "sweet"
+print(jonagold.color)
 
-print(jonoagold.flavor)
+print(jonagold.flavor)
 
 # Dot notation
 # lets you access any of the abilities the object might have (called methods) or information it might store (called attributes)
 
 # i.e.
 
-print(jonoagold.color.upper())
+print(jonagold.color.upper())
 
 # Practice
 
