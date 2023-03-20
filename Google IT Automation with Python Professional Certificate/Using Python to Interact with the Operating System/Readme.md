@@ -29,3 +29,5 @@
         * https://docs.python.org/3/library/os.html \
         * https://docs.python.org/3/library/os.path.html \
         * https://en.wikipedia.org/wiki/Unix_time 
+        
+* HTML is a markup format which defines the content of a webpage. JSON is a data interchange format commonly used to pass data between computers on networks, especially the internet. CSV or comma separated values is a very common data format used to store data as segment of text separated by commas. In the Python standard library, you'll find classes and modules for working with many of these data formats, including CSV and HTML. 
