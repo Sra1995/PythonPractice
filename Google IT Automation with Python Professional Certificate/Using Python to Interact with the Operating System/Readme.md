@@ -22,3 +22,5 @@
 * The Pareto Principle states that 20% of the system administration tasks you perform are responsible for 80% of your workload. Therefore, identifying and automating those tasks will put your productivity through the roof!
 
 * [Reading and Writing Files Cheat-Sheet](https://docs.python.org/3/library/functions.html#open)
+
+* there's plenty of other things we might need to do when working with files in our scripts. We may need to delete, rename or move files, or we might need information about a file, like the time it was last modified or its current size. For these operations, we'll be using functions provided by the OS module. This module provides a layer of abstraction between Python and the operating system. It allows us to interact with the underlying system without us knowing whether we're working on a Windows, Mac, Linux, or any other operating system supported by Python. THIS ALLOW US TO WRITE SCRIPT USABLE ACROSS SYSTEMS - HOWEVER, PATHS ARE DIFFERENT FROM ONE SYSTEM TO ANOTHER.
