@@ -18,3 +18,5 @@
         &nbsp;* [Sublime Text](http://www.sublimetext.com/)\
         &nbsp;* [Visual Studio Code](https://code.visualstudio.com/)\
         &nbsp;* Articles about IDEs [Python IDEs and Code Editors (Guide)](https://realpython.com/python-ides-code-editors-guide/#pycharm)  - [Best Python IDEs and Code Editors](https://www.softwaretestinghelp.com/python-ide-code-editors/) - [Top 5 Python IDEs for Data Science](https://www.datacamp.com/community/tutorials/data-science-python-ide)
+
+* The Pareto Principle states that 20% of the system administration tasks you perform are responsible for 80% of your workload. Therefore, identifying and automating those tasks will put your productivity through the roof!
